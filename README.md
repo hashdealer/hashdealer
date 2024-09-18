@@ -2,7 +2,7 @@
 
 You have landed on the page of a beginner programmer, hacker, and OSINT enthusiast
 
-At the moment, I'm just learning and don't upload much to my public Github.
+At the moment, I'm just learning and don't upload much to my Github.
 
 If you're looking to contact me, you can send a message to my email: idfkwh0am1@proton.me.
 
