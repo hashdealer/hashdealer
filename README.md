@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello there 👋
+
+You have landed on the page of a beginner programmer, hacker, and OSINT enthusiast
+
+At the moment, I'm just learning and don't upload much to my public Github.
+
+If you're looking to contact me, you can send a message to my email: idfkwh0am1@proton.me.
 
 <!--
 **hashdealer/hashdealer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
